@@ -16,6 +16,6 @@ class Empleado extends Persona {
   }
 
   toString() {
-    retu;
+    return;
   }
 }
